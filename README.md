@@ -8,9 +8,9 @@ Feel free to explore, contribute, or just grab what you need to level up your sk
 
 #### Computer Aided Analysis & Design & Manufacturing
 
-- [https://www.edx.org/certificates/professional-certificate/mathworks-engineering-design-and-simulation](https://www.edx.org/certificates/professional-certificate/mathworks-engineering-design-and-simulation)
+- [Mathworks-engineering-design-and-simulation](https://www.edx.org/certificates/professional-certificate/mathworks-engineering-design-and-simulation)
 
-- [https://www.edx.org/masters/micromasters/mitx-principles-manufacturing](https://www.edx.org/masters/micromasters/mitx-principles-manufacturing)
+- [MITx-principles-manufacturing](https://www.edx.org/masters/micromasters/mitx-principles-manufacturing)
 
 - [CornellX: A Hands-on Introduction to Engineering Simulations | edX](https://www.edx.org/learn/engineering/cornell-university-a-hands-on-introduction-to-engineering-simulations?correlationId=112d89af-1698-43fd-a768-60070eaeb5d6)
 
@@ -89,14 +89,14 @@ Feel free to explore, contribute, or just grab what you need to level up your sk
 
 #### Optional
 
-- [ ] Concurrent Engineering
+- Concurrent Engineering
 
-- [ ] Advanced Engineering Mathematics
+- Advanced Engineering Mathematics
 
-- [ ] Theory of Elasticity and Plasticity
+- Theory of Elasticity and Plasticity
 
-- [ ] Product Design 
+- Product Design 
 
-- [ ] Design for Additive Manufacturing
+- Design for Additive Manufacturing
 
-- [ ] Advanced Engineering Mathematics
+- Advanced Engineering Mathematics
