@@ -2,9 +2,21 @@
 
 **Mastering Engineering Design: Advanced Skills for Design Engineers**
 
-This is blend of structured courses, practical project ideas, and free learning resources to help you dive into advanced design engineering topics (CAD, CAE, FEA, CFD, Advanced materials, Advanced Control systems, Multi body systems, IIOT, etc. If you have some ideas please do mention. 
+This is blend of structured courses, practical project ideas, and free learning resources to dive into advanced design engineering topics (CAD, CAE, FEA, CFD, Advanced materials, Advanced Control systems, Multi body systems, IIOT, etc. If you have some ideas please do mention. 
 
 Feel free to explore, contribute, or just grab what you need to level up your skills. Let’s make learning engineering design simple and cool! 🚀
+
+## Why I am doing this?
+
+My main motivation behind this learning and courses is not about certifications, but rather gaining ability to create efficient, optimised products, novel solutions by our own. My goal is not to be some sort of CAD/CAE expert who knows how to use a software (Solidwoks, Ansys, MATLAB) but rather leveraging ideas and creating cutting edge engineering solutions and then using softwares to optimise. In short, I want to gain engineering skills (not software skills which mostly everyone on social media preaches).
+
+
+### Mechanical System Design
+
+- ***Shigley's Mechanical Engineering Design*** (Book)
+
+- [Modeling and Simulation of Multibody Systems Professional Certificate | edX](https://www.edx.org/certificates/professional-certificate/louvainx-modeling-and-simulation-of-multibody-systems)
+
 
 #### Computer Aided Analysis & Design & Manufacturing
 
@@ -23,11 +35,12 @@ Feel free to explore, contribute, or just grab what you need to level up your sk
 
 
 
-#### Advanced Composites
+#### Advanced Composites (Material science ++)
 
 
 - [Materials Science for Advanced Technological Applications | Coursera](https://www.coursera.org/specializations/materials-science-for-advanced-technological-applications) (81 Hours)
 
+- **Materials Selection in Mechanical Design** by *Michel Ashby* (Book)
 
 
 #### Project Management
@@ -35,11 +48,6 @@ Feel free to explore, contribute, or just grab what you need to level up your sk
 - [Google Project Management: Professional Certificate | Coursera](https://www.coursera.org/professional-certificates/google-project-management)
 
 
-
-#### Mechanical System Design
-
-
-- [Modeling and Simulation of Multibody Systems Professional Certificate | edX](https://www.edx.org/certificates/professional-certificate/louvainx-modeling-and-simulation-of-multibody-systems)
 
 
 
