@@ -1,6 +1,6 @@
 ### Starting with Engineering design from very fundamentals
 
-I'm going through book named "Engineering design: systematic approach" by Pahl. 
+- "Engineering design: systematic approach" by Pahl. 
 
 ### Things to keep in mind
 

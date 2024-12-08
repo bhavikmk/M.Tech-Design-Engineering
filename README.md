@@ -17,6 +17,8 @@ My main motivation behind this learning and courses is not about certifications,
 
 - [Modeling and Simulation of Multibody Systems Professional Certificate | edX](https://www.edx.org/certificates/professional-certificate/louvainx-modeling-and-simulation-of-multibody-systems)
 
+- ***Machine Elements in Mechanical Design*** by Robert L Mott (Book)
+
 
 #### Computer Aided Analysis & Design & Manufacturing
 
