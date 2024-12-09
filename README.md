@@ -10,7 +10,8 @@ Feel free to explore, contribute, or just grab what you need to level up your sk
 
 My main motivation behind this learning and courses is not about certifications, but rather gaining ability to create efficient, optimised products, novel solutions by our own. My goal is not to be some sort of CAD/CAE expert who knows how to use a software (Solidwoks, Ansys, MATLAB) but rather leveraging ideas and creating cutting edge engineering solutions and then using softwares to optimise. In short, I want to gain engineering skills (not software skills which mostly everyone on social media preaches).
 
-
+My youtube channel [Greenmark Engineer](https://www.youtube.com/@GreenMarkEngineer)
+ where i will post updates about project and possibly explainers on some concepts(not fancy animation type). 
 ### Mechanical System Design
 
 - ***Shigley's Mechanical Engineering Design*** (Book)
